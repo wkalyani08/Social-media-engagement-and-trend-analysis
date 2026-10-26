@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Social Media Engagement Analysis and Trend Prediction
 
 ## Project Overview
